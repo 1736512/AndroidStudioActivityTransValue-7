@@ -1,0 +1,2 @@
+# AndroidStudioActivityTransValue-7
+ 
